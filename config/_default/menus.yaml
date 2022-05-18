@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 557cf872-1bbb-4e7c-b389-6dc3b6fa9e1b
+  name: breakfast
+  url: /pages/cooking3
+  weight: 10
+- identifier: 0501e317-ec4d-443f-b6c3-22cde5a404ab
+  name: lunch
+  url: /pages/cooking2
+  weight: 20
+- identifier: 6389e132-a98c-4a5e-84f6-3fe9e36a59fe
+  name: dinner
+  url: /pages/cooking
+  weight: 30
