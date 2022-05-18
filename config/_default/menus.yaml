@@ -11,3 +11,13 @@ leftnav:
   name: dinner
   url: /pages/cooking
   weight: 30
+- identifier: 13e78dae-926e-49d8-8ce8-295d9614ef0c
+  name: Cooking Instructions
+  parent: 557cf872-1bbb-4e7c-b389-6dc3b6fa9e1b
+  url: /pages/cooking6
+  weight: 10
+- identifier: ed87f009-c924-457f-b202-065c5edfadb4
+  name: Cooking Instructions
+  parent: 0501e317-ec4d-443f-b6c3-22cde5a404ab
+  url: /pages/cooking5
+  weight: 10
